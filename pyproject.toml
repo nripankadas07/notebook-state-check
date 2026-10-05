@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "notebook-state-check"
+version = "0.1.0"
+description = "Read-only notebook execution-state diagnostics with precise cell evidence."
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+readme = "README.md"
+dependencies = []
+[project.scripts]
+notebook-state-check = "notebook_state_check:main"
+[tool.setuptools]
+py-modules = ["notebook_state_check"]

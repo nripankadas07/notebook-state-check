@@ -1,0 +1,239 @@
+{
+  "observed_utc": "2026-10-05T06:07:38.257Z",
+  "queries": [
+    {
+      "name": "notebook-state-check",
+      "query": "notebook clean outputs",
+      "url": "https://api.github.com/search/repositories?q=notebook+clean+outputs&sort=stars&order=desc&per_page=10",
+      "observed_utc": "2026-10-05T06:06:37.036192+00:00",
+      "results": [
+        {
+          "full_name": "srstevenson/nb-clean",
+          "html_url": "https://github.com/srstevenson/nb-clean",
+          "stargazers_count": 202,
+          "pushed_at": "2026-09-01T18:04:35Z"
+        },
+        {
+          "full_name": "Komal01/phishing-URL-detection",
+          "html_url": "https://github.com/Komal01/phishing-URL-detection",
+          "stargazers_count": 43,
+          "pushed_at": "2019-07-10T18:23:32Z"
+        },
+        {
+          "full_name": "roy-ht/pre-commit-jupyter",
+          "html_url": "https://github.com/roy-ht/pre-commit-jupyter",
+          "stargazers_count": 24,
+          "pushed_at": "2022-06-02T12:24:07Z"
+        },
+        {
+          "full_name": "Milor123/notebooklm-unified",
+          "html_url": "https://github.com/Milor123/notebooklm-unified",
+          "stargazers_count": 23,
+          "pushed_at": "2026-03-31T22:44:03Z"
+        },
+        {
+          "full_name": "infomindgithub/Machine-Learning-Engineer-Nanodegree-Capstone-PROJECT-ANALYSIS",
+          "html_url": "https://github.com/infomindgithub/Machine-Learning-Engineer-Nanodegree-Capstone-PROJECT-ANALYSIS",
+          "stargazers_count": 15,
+          "pushed_at": "2018-03-28T07:16:54Z"
+        },
+        {
+          "full_name": "ayasyrev/nbmetaclean",
+          "html_url": "https://github.com/ayasyrev/nbmetaclean",
+          "stargazers_count": 11,
+          "pushed_at": "2026-08-21T12:54:13Z"
+        },
+        {
+          "full_name": "basnijholt/ipynb_git_filters",
+          "html_url": "https://github.com/basnijholt/ipynb_git_filters",
+          "stargazers_count": 6,
+          "pushed_at": "2021-01-15T00:19:40Z"
+        },
+        {
+          "full_name": "Restodecoca/opencode-ipynb",
+          "html_url": "https://github.com/Restodecoca/opencode-ipynb",
+          "stargazers_count": 5,
+          "pushed_at": "2026-06-25T15:04:03Z"
+        },
+        {
+          "full_name": "Naereen/fix-iocaml-notebook-exports-to-pdf",
+          "html_url": "https://github.com/Naereen/fix-iocaml-notebook-exports-to-pdf",
+          "stargazers_count": 3,
+          "pushed_at": "2017-09-08T07:53:57Z"
+        },
+        {
+          "full_name": "vikas-ukani/predict-flight-delays-creating-a-machine-learning-model-python",
+          "html_url": "https://github.com/vikas-ukani/predict-flight-delays-creating-a-machine-learning-model-python",
+          "stargazers_count": 3,
+          "pushed_at": "2020-05-29T11:26:07Z"
+        }
+      ]
+    },
+    {
+      "query": "notebook diff in:name,description",
+      "url": "https://api.github.com/search/repositories?q=notebook+diff+in%3Aname%2Cdescription&sort=stars&order=desc&per_page=10",
+      "observed_utc": "2026-10-05T06:16:04.368199+00:00",
+      "results": [
+        {
+          "repo": "cirosantilli/china-dictatorship",
+          "stars": 3250,
+          "url": "https://github.com/cirosantilli/china-dictatorship",
+          "pushed": "2026-02-05T07:59:11Z"
+        },
+        {
+          "repo": "jupyter/nbdime",
+          "stars": 2843,
+          "url": "https://github.com/jupyter/nbdime",
+          "pushed": "2026-06-10T10:12:19Z"
+        },
+        {
+          "repo": "FurkanGozukara/Stable-Diffusion",
+          "stars": 2773,
+          "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+          "pushed": "2026-10-04T22:26:27Z"
+        },
+        {
+          "repo": "gege-circle/.github",
+          "stars": 2033,
+          "url": "https://github.com/gege-circle/.github",
+          "pushed": "2025-10-04T07:56:18Z"
+        },
+        {
+          "repo": "acids-ircam/diffusion_models",
+          "stars": 721,
+          "url": "https://github.com/acids-ircam/diffusion_models",
+          "pushed": "2022-11-12T03:32:43Z"
+        },
+        {
+          "repo": "cirosantilli/china-dictatroship-7",
+          "stars": 370,
+          "url": "https://github.com/cirosantilli/china-dictatroship-7",
+          "pushed": "2026-02-05T07:59:02Z"
+        },
+        {
+          "repo": "woctezuma/stable-diffusion-colab",
+          "stars": 322,
+          "url": "https://github.com/woctezuma/stable-diffusion-colab",
+          "pushed": "2025-04-15T17:22:28Z"
+        },
+        {
+          "repo": "Engineer-of-Stuff/stable-diffusion-paperspace",
+          "stars": 291,
+          "url": "https://github.com/Engineer-of-Stuff/stable-diffusion-paperspace",
+          "pushed": "2024-03-08T22:37:22Z"
+        },
+        {
+          "repo": "cobanov/awesome-diffusion",
+          "stars": 218,
+          "url": "https://github.com/cobanov/awesome-diffusion",
+          "pushed": "2026-09-19T00:29:52Z"
+        },
+        {
+          "repo": "tarmstrong/nbdiff",
+          "stars": 212,
+          "url": "https://github.com/tarmstrong/nbdiff",
+          "pushed": "2015-06-11T19:38:51Z"
+        }
+      ]
+    }
+  ],
+  "comparables": [
+    {
+      "repository": "jupyter/nbconvert",
+      "metadata": {
+        "url": "https://github.com/jupyter/nbconvert",
+        "stars": 1939,
+        "updated": "2026-09-14T15:30:42Z",
+        "license": "BSD-3-Clause",
+        "default_branch": "main"
+      },
+      "readme_url": "https://github.com/jupyter/nbconvert/blob/main/README.md",
+      "issue_samples": [
+        {
+          "title": "Reject unrecognized CLI aliases before conversion",
+          "url": "https://github.com/jupyter/nbconvert/pull/2323",
+          "created": "2026-10-02T17:09:42Z"
+        },
+        {
+          "title": "\ud83d\udc1b fix(ci): fetch the classic CSS from PyPI and size the Qt view",
+          "url": "https://github.com/jupyter/nbconvert/pull/2321",
+          "created": "2026-09-24T22:45:22Z"
+        },
+        {
+          "title": "\ud83d\udd27 build(deps): replace archived bleach with turbohtml",
+          "url": "https://github.com/jupyter/nbconvert/pull/2320",
+          "created": "2026-09-24T00:23:27Z"
+        }
+      ]
+    },
+    {
+      "repository": "kynan/nbstripout",
+      "metadata": {
+        "url": "https://github.com/kynan/nbstripout",
+        "stars": 1485,
+        "updated": "2026-04-11T18:16:00Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme_url": "https://github.com/kynan/nbstripout/blob/main/README.md",
+      "issue_samples": [
+        {
+          "title": "Support setting defaults for command line arguments via git config",
+          "url": "https://github.com/kynan/nbstripout/issues/189",
+          "created": "2024-01-27T09:37:32Z"
+        },
+        {
+          "title": "Prevent committing notebooks with errors in cell outputs",
+          "url": "https://github.com/kynan/nbstripout/issues/180",
+          "created": "2022-12-24T21:11:11Z"
+        },
+        {
+          "title": "Possible nbstripout-fast integration",
+          "url": "https://github.com/kynan/nbstripout/issues/179",
+          "created": "2022-12-10T12:34:24Z"
+        }
+      ]
+    },
+    {
+      "repository": "jupyter/nbdime",
+      "metadata": {
+        "url": "https://github.com/jupyter/nbdime",
+        "stars": 2843,
+        "updated": "2026-06-10T10:12:19Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme_url": "https://github.com/jupyter/nbdime/blob/main/README.md",
+      "issue_samples": [
+        {
+          "title": "Fix saving retained deleted cells",
+          "url": "https://github.com/jupyter/nbdime/pull/822",
+          "created": "2026-08-29T19:57:56Z"
+        },
+        {
+          "title": "Implement the nbdime:diff command",
+          "url": "https://github.com/jupyter/nbdime/pull/821",
+          "created": "2026-08-29T09:05:41Z"
+        },
+        {
+          "title": "Migrate to jupyter-builder",
+          "url": "https://github.com/jupyter/nbdime/pull/820",
+          "created": "2026-08-25T18:30:24Z"
+        }
+      ]
+    },
+    {
+      "repository": "srstevenson/nb-clean",
+      "metadata": {
+        "url": "https://github.com/srstevenson/nb-clean",
+        "stars": 202,
+        "updated": "2026-09-01T18:04:35Z",
+        "license": "ISC",
+        "default_branch": "main"
+      },
+      "readme_url": "https://github.com/srstevenson/nb-clean/blob/main/README.md",
+      "issue_samples": []
+    }
+  ],
+  "moved_source_map_monorepo": null
+}
